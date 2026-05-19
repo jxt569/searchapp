@@ -1,2 +1,0 @@
-# searchapp
-nextjs repo
